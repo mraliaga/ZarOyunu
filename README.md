@@ -19,7 +19,7 @@ Bu proje, iki oyuncunun sırayla zar atarak puan topladığı modern bir web tab
 
 ## Ekran Görüntüsü
 
-![Zar Oyunu Demo](https://zight.com/your-gif-url-here)
+![](./Zight%20Recording%202024-12-30%20at%2012.07.33%20AM.gif)
 
 ## Teknolojiler
 
@@ -28,5 +28,3 @@ Bu proje, iki oyuncunun sırayla zar atarak puan topladığı modern bir web tab
 - JavaScript
 
 ## Kurulum
-
-1. Projeyi klonlayın:
