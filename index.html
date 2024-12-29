@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modern Zar Oyunu</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="game-wrapper">
+      <div class="container">
+        <div class="player" id="player1">
+          <h2>1. Oyuncu</h2>
+          <div class="score">Toplam: <span id="score1">0</span></div>
+          <div class="rolls" id="rolls1"></div>
+        </div>
+
+        <div class="dice-area">
+          <div class="dice" id="dice">🎲</div>
+          <button id="saveRoll">Zarı Kaydet</button>
+        </div>
+
+        <div class="player" id="player2">
+          <h2>2. Oyuncu</h2>
+          <div class="score">Toplam: <span id="score2">0</span></div>
+          <div class="rolls" id="rolls2"></div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <button id="reset">Oyunu Sıfırla</button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
